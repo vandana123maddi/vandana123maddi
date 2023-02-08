@@ -1,7 +1,7 @@
 # vandanamaddi<h1 align="center">Hi 🤗,My name Is vandana 🦄 and a computer science student who loves to work with Java and css html technologies right now my mind is focused on learning Java script and related to web development .I'm also passionate about exploring new technologies which I can solve real -life problems.</h1>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:vandanamaddi347@gmail.com,vandanamaddi2003@gmail.com</h3>
 
 <p align="left">
 
