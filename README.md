@@ -1,9 +1,5 @@
 # vandanamaddi<h1 align="center">Hi there 👋,My name Is vandana 🦄 and a computer science student who loves to work with Java and css html technologies right now my mind is focused on learning Java script and related to web development .I'm also passionate about exploring new technologies which I can solve real -life problems.</h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-vandana123maddi)
-https://komarev.com/ghpvc/?username=your-github-username&color=blue
-https://komarev.com/ghpvc/?username=your-github-username&color=dc143c
-https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS
 <p align="left">
 
 </p>
